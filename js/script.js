@@ -1,6 +1,4 @@
 var span = $("span");
-    span.each(function(index, element) {
-});
 
 $("span:even").css('color', 'red');
 
